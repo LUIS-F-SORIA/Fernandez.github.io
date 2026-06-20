@@ -1,1 +1,135 @@
-Fernandez.github.io
+EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg",DIRECTV SPORTS ONLINE
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg",DIRECTV SPORTS SUR
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg",DIRECTV SPORTS SUR
+http://190.117.20.39:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg",DIRECTV URUGUAY
+http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2V57d9S/Tycxi.jpg",TyC INTERNACIONAL HD
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss2dFgCZ/Sky-Sports.png",SKY SPORT
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg",ESPN SUR AR
+http://45.173.74.2:2010/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg",ESPN SUR AR
+http://181.118.156.46:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg",ESPN SUR AR 2
+http://191.97.49.82:8001/play/a00m/index.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg",ESPN SUR AR 2
+http://200.10.30.241:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png",ESPN 2
+http://190.60.49.242:4000/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png",ESPN 3
+http://190.60.49.242:4000/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png",ESPN 4
+http://190.60.49.242:4000/play/a0qh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png",ESPN 5
+http://190.60.49.242:4000/play/a0ji/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png",ESPN 6
+http://190.60.49.242:4000/play/a0qg/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RFDZZGQ/ESPN.png",ESPN 7
+http://190.60.49.242:4000/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZtjJ7S/TNTSports-Premium.jpg",TNT PREMIUN HD
+http://170.244.209.30:8000/play/a0hf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvZtjJ7S/TNTSports-Premium.jpg",TNT PREMIUN SD
+http://38.250.229.23:8000/play/a0r4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52c7mWcP/FOX-SPORT-AR.png",FOX SPORTS AR
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM9m530V/TELEFE-HD.png",TELEFE AR
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZbV54pH/telefe-hd.png",TELEFE AR 2
+http://200.115.120.1:8000/play/ca016/index.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZbV54pH/telefe-hd.png",TELEFE AR 3
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe.playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL0cf43K/GRAN-HERMANO-2026.jpg",GRAN HERMANO 1 AR
+http://infinitisurl.com:8080/JARED34/675GTd/584116
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL0cf43K/GRAN-HERMANO-2026.jpg",GRAN HERMANO MULTICAMARA
+http://infinitisurl.com:8080/JARED34/675GTd/584120
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL0cf43K/GRAN-HERMANO-2026.jpg",GRAN HERMANO EN VIVO
+http://infinitisurl.com:8080/JARED34/675GTd/584121
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL0cf43K/GRAN-HERMANO-2026.jpg",GRAN HERMANO CAMARA 3
+http://infinitisurl.com:8080/JARED34/675GTd/584122
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL0cf43K/GRAN-HERMANO-2026.jpg",GRAN HERMANO CAMARA 2
+http://infinitisurl.com:8080/JARED34/675GTd/584123
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL0cf43K/GRAN-HERMANO-2026.jpg",GRAN HERMANO CAMARA 1
+http://infinitisurl.com:8080/JARED34/675GTd/584124
+
+
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/Px7hL91q/boll-Sczhd1.jpg",BOLIVISION HD BOL
+https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg",RTP LA-PAZ HD BOL
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg",F10 HD BOL
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+#EXTINF:-1 tvg-logo="https://canales.asplurtv.com/logo_asplur.png",ASPLUR BOL
+http://59d39900ebfb8.streamlock.net/telefehd/telefehd/chunklist_w1818869767.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtdvKMsP/FAP-TV-HD-BOLIVIA.png",FAP TV HD BOL
+https://s4.tvdatta.com:3133/live/faptvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqvGfNb6/vos-tv-hd-bolivia.png",VOS TV HD BOL
+http://59d39900ebfb8.streamlock.net/vostv/vostv/chunklist_w1026638765.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkKzhxPw/NOVELAS-TURCAS-BOL.png",NOVELAS TURCAS BOL
+http://tv.zoymilton.com/ZoyTurcas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NftPzwN5/TNT-NOVELAS.png",TNT NOVELAS
+http://181.78.8.199:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52cBXkbX/PELICULA-DE-TV-EN-CASA.png",PELICULAS TV CINE BOL
+http://tv.zoymilton.com/ZoyPlus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCJqW7df/TDT-MULTIMEDIA-BOL.png",TDT MULTIMEDIA BOL
+http://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63gnNRND/logo-univalle.png",TV UNIVALLE BOL
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxSX3VMY/logo-asitv.png",TV ASI ES MI PUEBLO BOL
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/chunklist_w1535983503.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDRKycnK/inedi-logo.png",CINEDITA TV BOL
+https://59d39900ebfb8.streamlock.net/INEDITA/INEDITA/chunklist_w977436679.m3u8
+#EXTINF:-1 tvg-logo="hhttps://i.postimg.cc/DfgR61tT/logo-soltv.png",SOL TV BOL
+https://tv2.bitstreaming.net:3548/live/soltvbolivialive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxpty7np/tnt-novelas-logo-png-seeklogo-634471.png",NOVELAS TNT HD
+http://190.60.49.242:4000/play/a0pi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB0LtpH/RT-ESPA-OL-FHD-03.jpg",RT NOTICIAS FHD
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPZNR8Wp/w0-W1m.jpg",WOW PELICULAS HD
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26Vdb191/DW-TV-ESPANOL.png",DW TV ESPAÑOL INT
+http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0vb90Hs/FRANCE-24-ESPANOL.png",FRANCE TV ESPAÑOL INT
+http://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QHgxGGv/TELESUR-HD.png",TELESUR TV INT
+http://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0JHFDNC/KANAL-D-DRAMA.png",CANAL D DRAMA INT
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqjd46Zh/CINE-FAMILIAR.png",CINE FAMILIAR INT
+http://190.60.49.242:4000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3CRsD40/CINE-HISPANO.png",CINE ESPANO INT
+http://190.60.49.242:4000/play/a08c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65NnVWM0/CINE-PREMIUM.png",CINE PREMIUN INT
+http://190.60.49.242:4000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGFgTskT/PASIONES.png",PASIONES HD INT
+http://190.60.49.242:4000/play/a0js/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGxRdvRd/PLUTO-NOVELAS.png",PLUTO NOVELAS INT
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpS7bpVc/NOVELA-TURCA.png",PLUTO NOVELAS TURCAS
+https://jmp2.uk/rok-79113GmLkaZvKbncgXkNj9hL8cQJCSCjXscK.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp0DJfBS/NOVELAS-DRAMAS.png",PLUTO NOVELAS DRAMA
+https://jmp2.uk/rok-0a85a15f5ee75646bf386d3de3083a94.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLvvcxbf/TODO-NOVELAS-PASION.png",PLUTO TODO NOVELAS 
+https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C15Rh5cm/TV-LAS-ESTRELLAS.jpg",TV ESTRELLAS HD
+http://tecnotv.club/10my/phpcode/geomex.php?c=a0le&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C15Rh5cm/TV-LAS-ESTRELLAS.jpg",TV ESTRELLAS HD
+http://181.78.8.199:8000/play/a0as/index.m3u8
+
+
+
+
+
+
+
+
+
+
